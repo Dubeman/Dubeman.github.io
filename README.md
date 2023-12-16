@@ -13,6 +13,8 @@
 
 ### TELI: Teacher-Ensemble distillation based learned Label Interpolation
 
+![TELI methodology](/assets/img/TELI.jpeg)
+
 Imagine a neural network based learning strategy that combines the wisdom of multiple teacher models, dynamically adjusts its learning approach, and enriches the model's understanding of data relationships. Enter TELI.
 
 #### Knowledge Distillation
