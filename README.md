@@ -8,7 +8,9 @@
 - B.S., Data Science and Engineering  | Indian Institute of Science Education and Research, Bhopal (_May 2023_)
 
 ## Bachelor's Thesis
-- [Thesis blog](https://medium.com/@dubemanas10)
+
+[Thesis blog](https://medium.com/@dubemanas10)
+
 ### TELI: Teacher-Ensemble distillation based learned Label Interpolation
 
 Imagine a neural network based learning strategy that combines the wisdom of multiple teacher models, dynamically adjusts its learning approach, and enriches the model's understanding of data relationships. Enter TELI.
