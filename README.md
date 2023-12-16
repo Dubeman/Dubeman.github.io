@@ -5,7 +5,43 @@
 ## Education
 					       		
 - M.S., Data Science	| Rochester Institute of Technology , N.Y. (_August 2023_ - Present)	 			        		
-- B.S., Data Science and Engineering  | Indian Institute of Science Education and Research,Bhopal (_May 2023_)
+- B.S., Data Science and Engineering  | Indian Institute of Science Education and Research, Bhopal (_May 2023_)
+
+## Bachelor's Thesis
+### TELI: Teacher-Ensemble distillation based learned Label Interpolation
+
+Imagine a neural network based learning strategy that combines the wisdom of multiple teacher models, dynamically adjusts its learning approach, and enriches the model's understanding of data relationships. Enter TELI.
+
+#### Core Concepts:
+##### Knowledge Distillation
+The model learns not just from labeled data but distills the collective knowledge of a group of teacher models. These teachers, each a specialist in its own right, contribute nuanced insights to the learning process.
+
+##### Meta Learning 
+Using meta-learning, the model dynamically tunes its mixing ratio (lambda) between teacher predictions. This adaptability ensures that the model becomes more than a learner; it becomes an agile decision-maker, adjusting to the complexity of different datasets.
+
+##### Teacher Ensemble
+Ensembling is the power of collaboration. TELI brings together an ensemble of teacher models, each providing a unique perspective on the data. The collective intelligence of this ensemble strengthens the model's grasp of intricate patterns.
+
+#### Why Pseudo Mixup?
+
+##### Improved Generalization
+TELI doesn't just memorize examples; it learns the relationships between classes. This results in a model that not only performs well on labeled data but excels in making accurate predictions on unseen, unlabeled data.
+
+##### Meta Learning Adaptability 
+The ability to dynamically adjust the mixing ratio means the model adapts to the idiosyncrasies of each dataset. No more one-size-fits-all; TELI tailors its approach for optimal performance.
+
+##### Enriched Knowledge Transfer
+Knowledge distillation takes center stage, transferring the distilled wisdom of teacher models to the student. The ensemble of teachers ensures a diverse range of knowledge is at the model's disposal.
+
+
+
+
+
+
+
+
+
+
 
 
 ## Projects
@@ -24,34 +60,6 @@ Bachelor’s Thesis : Aiding supervised learning with unlabeled data: Cost-Savin
 - Designed an interactive UI for streamlining model training ,testing and evaluation.
 0 Presented the research in an annual research exposition and Data science board of my university.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Data Science Blog](https://medium.com/@dubemanas10)https://medium.com/@dubemanas10)
