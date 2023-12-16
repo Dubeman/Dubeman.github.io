@@ -4,7 +4,7 @@
 
 ## Education
 					       		
-- M.S., Data Science	| Rochester Institute of Technology , N.Y. (_Augut 2023_ - Present)	 			        		
+- M.S., Data Science	| Rochester Institute of Technology , N.Y. (_August 2023_ - Present)	 			        		
 - B.S., Data Science and Engineering  | Indian Institute of Science Education and Research,Bhopal (_May 2023_)
 
 
