@@ -15,14 +15,13 @@
 
 Imagine a neural network based learning strategy that combines the wisdom of multiple teacher models, dynamically adjusts its learning approach, and enriches the model's understanding of data relationships. Enter TELI.
 
-#### Core Concepts:
-##### Knowledge Distillation
+#### Knowledge Distillation
 The model learns not just from labeled data but distills the collective knowledge of a group of teacher models. These teachers, each a specialist in its own right, contribute nuanced insights to the learning process.
 
-##### Meta Learning 
+#### Meta Learning 
 Using meta-learning, the model dynamically tunes its mixing ratio (lambda) between teacher predictions. This adaptability ensures that the model becomes more than a learner; it becomes an agile decision-maker, adjusting to the complexity of different datasets.
 
-##### Teacher Ensemble
+#### Teacher Ensemble
 Ensembling is the power of collaboration. TELI brings together an ensemble of teacher models, each providing a unique perspective on the data. The collective intelligence of this ensemble strengthens the model's grasp of intricate patterns.
 
 #### Why TELI ?
