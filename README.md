@@ -22,7 +22,7 @@ Using meta-learning, the model dynamically tunes its mixing ratio (lambda) betwe
 ##### Teacher Ensemble
 Ensembling is the power of collaboration. TELI brings together an ensemble of teacher models, each providing a unique perspective on the data. The collective intelligence of this ensemble strengthens the model's grasp of intricate patterns.
 
-#### Why Pseudo Mixup?
+#### Why TELI ?
 
 ##### Improved Generalization
 TELI doesn't just memorize examples; it learns the relationships between classes. This results in a model that not only performs well on labeled data but excels in making accurate predictions on unseen, unlabeled data.
