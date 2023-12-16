@@ -15,14 +15,14 @@
 
 Bachelor’s Thesis : Aiding supervised learning with unlabeled data: Cost-Saving through Semi-Supervised Learning and Knowledge distillation   (Aug/2022 to May/23)
 
-• Developed a novel algorithm which circumvents annotation costs allocated for data collection.
-• Utilized heavyweight and lightweight neural networks (e.g., VGG-16, ResNet-50) .
-• Performed GradCam analysis to optimize model interpretability, reducing operational errors.
-• Improved the robustness of semi-supervised student model with Stochastic Data Augmentation by 2%.
-• Utilized custom data-loaders for dynamic data allocation and complete GPU utilisation.
-• Boosted the student model performance by 12 % by utilising knowledge distillation.
-• Designed an interactive UI for streamlining model training ,testing and evaluation.
-• Presented the research in an annual research exposition and Data science board of my university.
+- Developed a novel algorithm which circumvents annotation costs allocated for data collection.
+- Utilized heavyweight and lightweight neural networks (e.g., VGG-16, ResNet-50) .
+- Performed GradCam analysis to optimize model interpretability, reducing operational errors.
+- Improved the robustness of semi-supervised student model with Stochastic Data Augmentation by 2%.
+- Utilized custom data-loaders for dynamic data allocation and complete GPU utilisation.
+- Boosted the student model performance by 12 % by utilising knowledge distillation.
+- Designed an interactive UI for streamlining model training ,testing and evaluation.
+0 Presented the research in an annual research exposition and Data science board of my university.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
