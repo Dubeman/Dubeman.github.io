@@ -4,7 +4,7 @@
 
 ## Education
 					       		
-- M.S., Data Science	| Rochester Institute of Technology , N.Y. (_August 2023_ - Present)	 			        		
+- M.S., Data Science	| Rochester Institute of Technology , N.Y. (_August 2023_ - _Present_)	 			        		
 - B.S., Data Science and Engineering  | Indian Institute of Science Education and Research, Bhopal (_May 2023_)
 
 ## Bachelor's Thesis
@@ -45,7 +45,12 @@ Knowledge distillation takes center stage, transferring the distilled wisdom of 
 - Utilized custom data loaders for dynamic data allocation and complete GPU utilization.
 - Boosted the student model performance by 12 % by utilizing knowledge distillation.
 - Designed an interactive UI for streamlining model training, testing, and evaluation.
-- Presented the research at my university's annual research exposition and Data science board.
+- Presented the research at my university's Data science board to their great acclaim.
+
+## Projects
+
+
+
 
 
 
