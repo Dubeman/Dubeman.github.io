@@ -51,7 +51,7 @@ Knowledge distillation takes center stage, transferring the distilled wisdom of 
 
 ### Advanced NLP for Safer Online Communities: A Multi-label classification problem
 
-In pursuit of fostering safer online spaces, I applied cutting-edge Natural Language Processing (NLP) techniques to detect Patronizing and Condescending Language (PCL) on Twitter. This content moderation challenge, framed as a SemEval problem, demanded a nuanced approach.
+In pursuit of fostering safer online spaces, I applied  Natural Language Processing (NLP) techniques to detect Patronizing and Condescending Language (PCL) on Twitter using the _Dont Patronize Me!_ (Perez et. al 2020) dataset. This content moderation challenge, framed as a SemEval problem, demanded a nuanced approach.
 
 #### Diverse Approaches
 We embraced both Statistical and Deep NLP techniques to address the intricacies of PCL detection comprehensively.
