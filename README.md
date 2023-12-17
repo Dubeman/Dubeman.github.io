@@ -54,19 +54,19 @@ Knowledge distillation takes center stage, transferring the distilled wisdom of 
 In pursuit of fostering safer online spaces, I applied  Natural Language Processing (NLP) techniques to detect Patronizing and Condescending Language (PCL) on Twitter using the _Dont Patronize Me!_ (Perez et. al 2020) dataset. This content moderation challenge, framed as a SemEval problem, demanded a nuanced approach.
 
 #### Diverse Approaches
-We embraced both Statistical and Deep NLP techniques to address the intricacies of PCL detection comprehensively.
+I embraced both Statistical and Deep NLP techniques to address the intricacies of PCL detection comprehensively.
 
 #### Deep Learning Architectures 
-Our experimentation included renowned models such as bI-LSTM, RNN, BERT, Feed-forward NN, Stacked RNN, Stacked LSTM, and RoBERTa transformer (pre-trained and trained from scratch) using TensorFlow. Each architecture brought unique strengths to the task.
+My experimentation included renowned models such as bI-LSTM, RNN, BERT, Feed-forward NN, Stacked RNN, Stacked LSTM, and RoBERTa transformer (pre-trained and trained from scratch) using TensorFlow. Each architecture brought unique strengths to the task.
 
 #### Word Embeddings for Context 
-We harnessed word embeddings, specifically GloVe, to enhance content representation and capture the semantic nuances critical for accurate PCL detection.
+Using word embeddings, specifically GloVe, to enhance content representation and capture the semantic nuances critical for accurate PCL detection.
 
 #### Hyperparameter Tuning
-Streamlining our models for stability was achieved through meticulous hyperparameter tuning. This not only improved accuracy but also optimized resource utilization.
+Streamlining the models for stability was achieved through meticulous hyperparameter tuning. This not only improved accuracy but also optimized resource utilization.
 
 #### Multifaceted Analysis
-Recognizing the multifactorial nature of the challenge, we experimented with various preprocessing techniques—Stemming, Lemmatization, Word2Vec—analyzing their impact on overall model performance.
+Recognizing the multifactorial nature of the challenge, I experimented with various preprocessing techniques—Stemming, Lemmatization, Word2Vec—analyzing their impact on overall model performance.
 
 
 
