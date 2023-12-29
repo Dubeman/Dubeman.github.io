@@ -71,7 +71,7 @@ Recognizing the multifactorial nature of the challenge, I experimented with vari
 
 ### Twitter Sentiment Analysis to gauge Vaccination reception during COVID-19
 
-![Twitter Vaccination Heatmap](/assets/img/heatmap.jpeg)
+![Twitter Vaccination Heatmap](/assets/img/Heatmap.jpeg)
 
 In the dynamic landscape of the COVID-19 pandemic, we undertook a Twitter Sentiment Analysis project to gauge public sentiment regarding vaccinations during December 2021. Leveraging the Twitter REST API, our goal was to distill valuable insights for health authorities, aiding vaccination campaigns and safety measures.
 
