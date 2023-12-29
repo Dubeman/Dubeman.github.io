@@ -1,7 +1,7 @@
 # Data Science Graduate
 
 #### Technical Skills: Python, SQL, JMP, Mathematica
-[Resume](https://drive.google.com/drive/u/0/my-drive)
+[Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1mVZKnLeARw0FJoylbgCWR2qhq2fcQEHS/view?usp=sharing))
 
 ## Education
 					       		
