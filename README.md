@@ -1,6 +1,7 @@
 # Data Science Graduate
 
 #### Technical Skills: Python, SQL, JMP, Mathematica
+[Resume](https://drive.google.com/drive/u/0/my-drive)
 
 ## Education
 					       		
@@ -67,6 +68,29 @@ Streamlining the models for stability was achieved through meticulous hyperparam
 
 #### Multifaceted Analysis
 Recognizing the multifactorial nature of the challenge, I experimented with various preprocessing techniques—Stemming, Lemmatization, Word2Vec—analyzing their impact on overall model performance.
+
+### Twitter Sentiment Analysis to gauge Vaccination reception during COVID-19
+
+In the dynamic landscape of the COVID-19 pandemic, we undertook a Twitter Sentiment Analysis project to gauge public sentiment regarding vaccinations during December 2021. Leveraging the Twitter REST API, our goal was to distill valuable insights for health authorities, aiding vaccination campaigns and safety measures.
+
+#### Insights from Tweets:
+
+Gathered and cleaned Twitter data to grasp public sentiment around COVID-19 vaccinations.
+Applied machine learning models (Logistic Regression, Naive Bayes, SVMs) to quantify sentiments.
+Mapped sentiment trends on interactive maps, offering health authorities a geographical view of public feelings.
+
+#### Actionable Findings:
+
+Extracted practical insights to guide vaccination campaigns and enhance safety measures.
+Health authorities can use sentiment analysis to adapt strategies based on real-time public reactions.
+
+#### User-Friendly Maps:
+
+Simplified complex sentiment data into easy-to-understand maps for the public.
+These intuitive visuals made intricate information accessible to a wider audience.
+
+
+
 
 
 
