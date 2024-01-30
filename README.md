@@ -1,6 +1,7 @@
 # Data Science Graduate
 
-#### Technical Skills: Python, SQL, JMP, Mathematica
+#### Tech Stack: Python (PyTorch ,Tensorflow), Java, Git, SQL, JMP, Mathematica, C++
+
 [Resume]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/1mVZKnLeARw0FJoylbgCWR2qhq2fcQEHS/view?usp=sharing))
 
 ## Education
