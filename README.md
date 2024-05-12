@@ -2,12 +2,13 @@
 [View Resume](https://drive.google.com/file/d/1mVZKnLeARw0FJoylbgCWR2qhq2fcQEHS/view?usp=sharing)
 
 ## About Me
-I am a dedicated Data Science graduate with expertise in Python (PyTorch, TensorFlow), Java, Git, SQL, JMP, Mathematica, and C++. I have a strong academic background, holding an M.S. in Data Science from Rochester Institute of Technology and a B.S. in Data Science and Engineering from the Indian Institute of Science Education and Research, Bhopal.
+I'm a pragmatic self-starter with an extensive research background in the field of Computer Vision, NLP based Deep Learning research. Versed in Object Oriented programming ,modular programming and unit testing principles from software engineering gained from coursework and varied project work.
 
 ## Bachelor's Thesis: TELI - Teacher-Ensemble Distillation based Learned Label Interpolation
 [Read More](https://medium.com/@dubemanas10)
 
-### Overview
+### ![TELI methodology](/assets/img/TELI.jpeg)
+
 TELI is a neural network learning strategy that combines the wisdom of multiple teacher models to enrich the model's understanding of data relationships.
 
 ### Key Features
@@ -32,7 +33,8 @@ Applied Natural Language Processing techniques to detect Patronizing and Condesc
 #### Approaches
 Utilized Statistical and Deep NLP techniques, including bI-LSTM, RNN, BERT, and RoBERTa transformer models.
 
-#### Insights
+#### ![Twitter Sentiment Analysis](/assets/img/Twitter_Sentiment_Analysis.jpeg)
+
 Mapped sentiment trends on interactive maps to guide vaccination campaigns and enhance safety measures.
 
 ### Twitter Sentiment Analysis: Vaccination Reception during COVID-19
@@ -41,7 +43,8 @@ Mapped sentiment trends on interactive maps to guide vaccination campaigns and e
 #### Overview
 Conducted Twitter Sentiment Analysis to gauge public sentiment regarding vaccinations during December 2021.
 
-#### Insights
+#### ![Twitter Vaccination Heatmap](/assets/img/Heatmap.jpeg)
+
 Extracted practical insights to guide vaccination campaigns and enhance safety measures.
 
 #### User-Friendly Maps
